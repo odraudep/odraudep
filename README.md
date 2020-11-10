@@ -3,10 +3,10 @@
 I'm Eduardo Pinheiro, and I'm a Web Developer. I'm from Brazil. :brazil: 
 
 [![Linkedin: odraudep](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/odraudep/)
-![Fiverr: odraudep](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/odraudep)
-![Behance: odraudep](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/odraudep)
-![Freelancer: odraudep](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white&link=https://www.freelancer.com/u/odraudep)
-![Dribble: odraudep](https://img.shields.io/badge/-Dribble-EA4C89?style=flat-square&logo=Dribble&logoColor=white&link=https://dribbble.com/odraudep)
+[![Fiverr: odraudep](https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white&link=https://www.fiverr.com/odraudep)](https://www.fiverr.com/odraudep)
+[![Behance: odraudep](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/odraudep)](https://www.behance.net/odraudep)
+[![Freelancer: odraudep](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square&logo=Freelancer&logoColor=white&link=https://www.freelancer.com/u/odraudep)](https://www.freelancer.com/u/odraudep)
+[![Dribble: odraudep](https://img.shields.io/badge/-Dribble-EA4C89?style=flat-square&logo=Dribble&logoColor=white&link=https://dribbble.com/odraudep)](https://dribbble.com/odraudep)
 
 ## 📣 Technologies
 
