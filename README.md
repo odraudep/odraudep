@@ -1,6 +1,6 @@
 ### Hi 👽 ✌️
 
-I'm Eduardo Pinheiro, and I'm a Web Developer. I'm from Brazil. :brazil: 
+My name is Eduardo Pinheiro, and I am Web Developer. 
 
 [![Behance: odraudep](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/odraudep)](https://www.behance.net/odraudep)
 [![Dribble: odraudep](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/odraudep)](https://dribbble.com/odraudep)
